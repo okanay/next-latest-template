@@ -8,6 +8,8 @@ type TProps = {
 
 import { SessionProvider } from 'next-auth/react';
 
+// auth.
+
 export const NextAuthProvider = ({ children }: TProps) => {
   return <SessionProvider>{children}</SessionProvider>;
 };
