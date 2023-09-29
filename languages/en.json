@@ -1,0 +1,13 @@
+{
+  "Index" : {
+    "title" : "Hello World"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, tr {Turkish} en {English} other {Unknown}}"
+  },
+  "NotFoundPage": {
+    "title": "EN",
+    "description": "EN-DES"
+  }
+}

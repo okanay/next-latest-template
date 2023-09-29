@@ -1,0 +1,13 @@
+{
+  "Index" : {
+    "title" : "Merhaba Dunya"
+  },
+  "LocaleSwitcher": {
+    "label": "Dili Değiştir",
+    "locale": "{locale, select, tr {Türkçe} en {İngilizce} other {Bilinmeyen}}"
+  },
+  "NotFoundPage": {
+    "title": "TR",
+    "description": "TR-DES"
+  }
+}
